@@ -14,3 +14,10 @@
 **Telegram:** @Aleksandrr444
 
 **Discord:** SmiianOleksandr#9712
+
+# Briefly About Myself:
+
+I started my journey to junior front-end specialist about a year ago, during the pandemic.
+Then I lost my job and realized that IT is the future and a stable job for any company anywhere in the world.
+I got carried away in this process and being already at another job I continue to study and not abandon the idea of ​​moving to IT.
+I set myself the goal that in the spring of 2023 I will still become a junior specialist and achieve this no matter what it costs me!
